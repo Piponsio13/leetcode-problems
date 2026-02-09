@@ -1,0 +1,1 @@
+We use backtracking to explore all combinations by choosing an element, diving deeper, then undoing the choice to try the next case.
